@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on coding fundements and growth within this industry
 - 📫 How to reach me melodyatk@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Spent a lot of time in Berlin & Belfast.  Love the Sacramento Kings.  Light the beam!
+- ⚡ Fun fact: Spent a lot of time in Berlin & Belfast.  Love the Sacramento Kings.  #lightthebeam
+  
 
 <!---
 Melodyatk/Melodyatk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
