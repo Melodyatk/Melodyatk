@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on coding fundements and growth within this industry
 - 📫 How to reach me melodyatk@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: Spent a lot of time in Berlin & Belfast.  Love the Sacramento Kings.  #lightthebeam
   
 
